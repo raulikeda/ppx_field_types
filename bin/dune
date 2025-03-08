@@ -1,0 +1,4 @@
+(executable
+ (public_name ppx_field_types)
+ (name main)
+ (libraries ppx_field_types))

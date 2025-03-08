@@ -1,0 +1,4 @@
+(library
+ (name ppx_field_types)
+ (kind ppx_deriver)
+ (libraries ppxlib))
