@@ -14,4 +14,6 @@ The generated code would be:
   let field_types = [ ('x', 'int'); ('y', 'string') ]
   ```
 
+This project is released into the public domain under CC0 1.0.
+
 This project benefited from assistance provided by Grok, an AI developed by xAI. Grok helped with code suggestions and debugging. For more information about Grok, visit [xAI's website](https://xai.ai).
