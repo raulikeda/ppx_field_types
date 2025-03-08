@@ -37,6 +37,6 @@
  
  (depends ocaml ppxlib)
  (tags
-  ("add topics" "to describe" your project)))
+  ("type deriver" "record fields type")))
 
 ; See the complete stanza docs at https://dune.readthedocs.io/en/stable/reference/dune-project/index.html
