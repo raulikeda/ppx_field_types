@@ -20,7 +20,7 @@ If you ever needed the string list of the types of the fields of a record type a
  """
 maintainer: ["Raul Ikeda <maintainer@example.com>"]
 authors: ["Raul Ikeda <author@example.com>"]
-license: "LICENSE"
+license: "CC0-1.0"
 tags: ["add topics" "to describe" "your" "project"]
 homepage: "https://github.com/raulikeda/ppx_field_types"
 doc: "https://url/to/documentation"
@@ -28,6 +28,7 @@ bug-reports: "https://github.com/raulikeda/ppx_field_types/issues"
 depends: [
   "dune" {>= "3.17"}
   "ocaml"
+  "ppxlib"
   "odoc" {with-doc}
 ]
 build: [

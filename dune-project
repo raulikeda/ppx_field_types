@@ -11,7 +11,7 @@
 
 (maintainers "Raul Ikeda <maintainer@example.com>")
 
-(license LICENSE)
+(license CC0-1.0)
 
 (documentation https://url/to/documentation)
 
@@ -35,7 +35,7 @@
   This project benefited from assistance provided by Grok, an AI developed by xAI. Grok helped with code suggestions and debugging. For more information about Grok, visit [xAI's website](https://xai.ai).
  ")
  
- (depends ocaml)
+ (depends ocaml ppxlib)
  (tags
   ("add topics" "to describe" your project)))
 
